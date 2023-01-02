@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre:
 Olá, sou a Larissa!<br>Fiz ensino médio técnico de informática no qual desenvolvi habilidades em programação web, mobile e banco de dados.<br>Meu primeiro grande projeto foi meu trabalho de conclusão de curso - TCC, que desenvolvi um site, um dashboard e um aplicativo de uma marca na área hospitalar.<br>Atualmente trabalho como estagiária de desenvolvimento de software e estou cursando faculdade de análise e desenvolvimento de sistemas pela UNINTER.
 
 
